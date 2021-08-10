@@ -1,6 +1,6 @@
 # CAR-GAME
 ## ABOUT THE GAME
-#### This game is programmed in C++.
+#### This car game is programmed in C++. In this i have used different functions as per requirement and one of them is enemy, for other cars that will come in way players car which he/she have escape from. And also used some text and background colors to make it look presentable. 
 #### When we start the game we get three options as shown below:- 
 ![image](https://user-images.githubusercontent.com/72311878/128821411-d2ac3f9c-6ab7-4c63-9d87-2e119a64739d.png)
 
