@@ -10,4 +10,7 @@
 #### then then by pressing any button we again go back to the intro page and then to start playing game we need to select option 3
 #### Now as we selected option 3 the game starts and below is the image how the game look like :- 
 ![image](https://user-images.githubusercontent.com/72311878/128822528-cc48fe90-5b26-4d50-a33c-5867e63e6317.png)
+![image](https://user-images.githubusercontent.com/72311878/128822721-d9df1b07-2ef4-45f5-92cd-24a408c264b0.png)
+
+
 
