@@ -1,1 +1,2 @@
 # CAR-GAME
+## ABOUT THE GAME
