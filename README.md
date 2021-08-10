@@ -11,6 +11,9 @@
 #### Now as we selected option 3 the game starts and below is the image how the game look like :- 
 ![image](https://user-images.githubusercontent.com/72311878/128822528-cc48fe90-5b26-4d50-a33c-5867e63e6317.png)
 ![image](https://user-images.githubusercontent.com/72311878/128822721-d9df1b07-2ef4-45f5-92cd-24a408c264b0.png)
+ #### in the game we need to escape other cars to stay in game for longer time and if we touch other car more than three times then the is game is over.
+ ![image](https://user-images.githubusercontent.com/72311878/128823503-33a875c4-4e76-44e8-8ec4-91f07b6b660d.png)
+
 
 
 
